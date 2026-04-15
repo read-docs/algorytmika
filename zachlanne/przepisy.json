@@ -1,0 +1,373 @@
+
+{
+  "przepisy": [
+    {
+      "nazwa": "Owsianka z bananem i masłem orzechowym",
+      "kcal": 520,
+      "bialko": 18,
+      "tluszcze": 18,
+      "weglowodany": 72,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Jajecznica z boczkiem i tostem",
+      "kcal": 620,
+      "bialko": 28,
+      "tluszcze": 38,
+      "weglowodany": 34,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Jogurt grecki z granolą i miodem",
+      "kcal": 380,
+      "bialko": 16,
+      "tluszcze": 10,
+      "weglowodany": 56,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Omlet z serem i wędliną",
+      "kcal": 490,
+      "bialko": 30,
+      "tluszcze": 34,
+      "weglowodany": 8,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Tost z awokado i jajkiem sadzonym",
+      "kcal": 450,
+      "bialko": 16,
+      "tluszcze": 26,
+      "weglowodany": 38,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Naleśniki z nutellą i bananem",
+      "kcal": 720,
+      "bialko": 16,
+      "tluszcze": 28,
+      "weglowodany": 100,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Kanapki z łososiem i cream cheese",
+      "kcal": 480,
+      "bialko": 26,
+      "tluszcze": 24,
+      "weglowodany": 38,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Shakshuka z pieczywem",
+      "kcal": 540,
+      "bialko": 24,
+      "tluszcze": 28,
+      "weglowodany": 48,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Smoothie bowl z orzechami i owocami",
+      "kcal": 560,
+      "bialko": 14,
+      "tluszcze": 20,
+      "weglowodany": 80,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "French toast z syropem klonowym",
+      "kcal": 650,
+      "bialko": 18,
+      "tluszcze": 24,
+      "weglowodany": 88,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Pancakes z owocami leśnymi",
+      "kcal": 580,
+      "bialko": 14,
+      "tluszcze": 16,
+      "weglowodany": 92,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Bagel z łososiem i kaparami",
+      "kcal": 520,
+      "bialko": 28,
+      "tluszcze": 14,
+      "weglowodany": 64,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Kasza jaglana z masłem orzechowym i bananem",
+      "kcal": 490,
+      "bialko": 14,
+      "tluszcze": 16,
+      "weglowodany": 72,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Kanapki z jajkiem i majonezem",
+      "kcal": 440,
+      "bialko": 18,
+      "tluszcze": 26,
+      "weglowodany": 34,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Płatki kukurydziane z mlekiem pełnotłustym",
+      "kcal": 420,
+      "bialko": 10,
+      "tluszcze": 12,
+      "weglowodany": 66,
+      "typ": "śniadanie"
+    },
+    {
+      "nazwa": "Kurczak z ryżem i brokułami",
+      "kcal": 580,
+      "bialko": 48,
+      "tluszcze": 10,
+      "weglowodany": 72,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Burger wołowy z frytkami",
+      "kcal": 980,
+      "bialko": 42,
+      "tluszcze": 52,
+      "weglowodany": 88,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Makaron carbonara",
+      "kcal": 780,
+      "bialko": 34,
+      "tluszcze": 36,
+      "weglowodany": 82,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Kotlet schabowy z ziemniakami i surówką",
+      "kcal": 820,
+      "bialko": 44,
+      "tluszcze": 38,
+      "weglowodany": 76,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Łosoś pieczony z kaszą i szparagami",
+      "kcal": 640,
+      "bialko": 46,
+      "tluszcze": 28,
+      "weglowodany": 52,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Curry z kurczakiem i ryżem",
+      "kcal": 720,
+      "bialko": 40,
+      "tluszcze": 22,
+      "weglowodany": 88,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Kebab w pitce z warzywami i sosem",
+      "kcal": 860,
+      "bialko": 38,
+      "tluszcze": 36,
+      "weglowodany": 90,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Gulasz wołowy z kaszą gryczaną",
+      "kcal": 700,
+      "bialko": 48,
+      "tluszcze": 24,
+      "weglowodany": 68,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Pizza margherita (2 kawałki)",
+      "kcal": 760,
+      "bialko": 30,
+      "tluszcze": 28,
+      "weglowodany": 96,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Stek z ziemniakami i sałatką",
+      "kcal": 880,
+      "bialko": 56,
+      "tluszcze": 44,
+      "weglowodany": 62,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Pad thai z kurczakiem",
+      "kcal": 740,
+      "bialko": 36,
+      "tluszcze": 26,
+      "weglowodany": 90,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Pierogi ruskie ze śmietaną i skwarkami",
+      "kcal": 680,
+      "bialko": 22,
+      "tluszcze": 32,
+      "weglowodany": 78,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Ryż smażony z wołowiną i warzywami",
+      "kcal": 760,
+      "bialko": 38,
+      "tluszcze": 28,
+      "weglowodany": 84,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Zupa krem z dyni z grzankami i pestkami",
+      "kcal": 420,
+      "bialko": 10,
+      "tluszcze": 18,
+      "weglowodany": 56,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Tortilla z mięsem mielonym i warzywami",
+      "kcal": 820,
+      "bialko": 40,
+      "tluszcze": 34,
+      "weglowodany": 84,
+      "typ": "obiad"
+    },
+    {
+      "nazwa": "Sałatka grecka z fetą i pieczywem",
+      "kcal": 380,
+      "bialko": 14,
+      "tluszcze": 24,
+      "weglowodany": 28,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Wrap z kurczakiem i guacamole",
+      "kcal": 560,
+      "bialko": 34,
+      "tluszcze": 22,
+      "weglowodany": 56,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Kanapki z hummusem i warzywami",
+      "kcal": 380,
+      "bialko": 14,
+      "tluszcze": 12,
+      "weglowodany": 52,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Omlet z łososiem i szpinakiem",
+      "kcal": 480,
+      "bialko": 36,
+      "tluszcze": 32,
+      "weglowodany": 6,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Makaron z pesto i pomidorkami cherry",
+      "kcal": 620,
+      "bialko": 18,
+      "tluszcze": 26,
+      "weglowodany": 78,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Ryba pieczona z warzywami i ryżem",
+      "kcal": 520,
+      "bialko": 40,
+      "tluszcze": 14,
+      "weglowodany": 58,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Twaróg z rzodkiewką i szczypiorkiem",
+      "kcal": 280,
+      "bialko": 24,
+      "tluszcze": 10,
+      "weglowodany": 22,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Zupa pomidorowa z makaronem",
+      "kcal": 420,
+      "bialko": 14,
+      "tluszcze": 12,
+      "weglowodany": 62,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Quesadilla z serem i szynką",
+      "kcal": 680,
+      "bialko": 32,
+      "tluszcze": 34,
+      "weglowodany": 62,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Kasza gryczana z jajkiem i warzywami",
+      "kcal": 440,
+      "bialko": 20,
+      "tluszcze": 14,
+      "weglowodany": 58,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Sałatka z tuńczykiem, jajkiem i makaronem",
+      "kcal": 520,
+      "bialko": 36,
+      "tluszcze": 16,
+      "weglowodany": 56,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Żurek z jajkiem i kiełbasą",
+      "kcal": 480,
+      "bialko": 24,
+      "tluszcze": 28,
+      "weglowodany": 32,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Toast z serem i pomidorem",
+      "kcal": 360,
+      "bialko": 16,
+      "tluszcze": 16,
+      "weglowodany": 38,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Kurczak z warzywami stir-fry",
+      "kcal": 500,
+      "bialko": 42,
+      "tluszcze": 16,
+      "weglowodany": 42,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Nachos z guacamole i salsą",
+      "kcal": 780,
+      "bialko": 16,
+      "tluszcze": 42,
+      "weglowodany": 86,
+      "typ": "kolacja"
+    },
+    {
+      "nazwa": "Zupa jarzynowa z chlebem razowym",
+      "kcal": 320,
+      "bialko": 10,
+      "tluszcze": 8,
+      "weglowodany": 52,
+      "typ": "kolacja"
+    }
+  ]
+}
